@@ -1,0 +1,43 @@
+class StringsManager{
+  static const String appName = 'mahmoud_fathi_start_tech_task';
+  static const String login = 'Login';
+  static const String register = 'Register';
+  static const String welcomeToApp = 'Welcome to the app';
+  static const String designedBy = 'Designed and developed by ';
+  static const String mahmoud = 'Mahmoud';
+  static const String fullName = 'Full Name';
+  static const String phoneHint = '55994435';
+  static const String emailAddress = 'Email Address';
+  static const String password = 'Password';
+  static const String confirmPassword = 'Confirm Password';
+  static const String alreadyHaveAnAccount = 'Already have an account? ';
+  static const String doNotHaveAnAccount = 'Don\'t have an account? ';
+  static const String homePage = 'Home Page';
+  static const String updateInfo = 'Update Information';
+  static const String changePassword = 'Change Password';
+  static const String deleteAccount = 'Delete Account';
+  static const String logout = 'Logout';
+  static const String success = 'Success';
+  static const String yourInformationUpdatedSuccessfully = 'Your information updated successfully';
+  static const String save = 'Save';
+  static const String currentPassword = 'Current Password';
+  static const String confirm = 'Confirm';
+  static const String enterCorrectPhoneNumber =  "Enter correct phone number";
+  static const String enterValidPhoneNumber =  "Enter valid phone number";
+  static const String passwordMismatch = "Password mismatch";
+  static const String enterName = "Enter name";
+  static const String enterEmail =  "Enter email";
+  static const String enterPhoneNumber = "Enter phone number";
+   static const String enterWrongly = "Wrong format";
+   static const String enterValidEmail = "Enter valid email";
+   static const String enterPassword = "Enter password";
+   static const String emptyValidation = "The field is empty. Please fill in the data";
+  static const String passwordMustBe6AtLeast= "The password must be at least 6 characters";
+  static const String alert= "Alert";
+  static const String token= "token";
+  static const String logoutTitle= "Are you sure?";
+  static const String logoutMessage= "Do you want to logout?";
+  static const String yes= "Yes";
+  static const String cancel= "Cancel";
+
+}
